@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Party Girls",
+  "base_artist": "Tiji Jojo",
+  "createdAt": "2025-12-10T07:48:37.533217Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Makeout Party Girls",
+      "artist": "Mink Mussel Creek",
+      "has_synced": true,
+      "path": "select/01_Makeout_Party_Girls_Mink_Mussel_Creek.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "My Life [Slumber Party Girls]",
+      "artist": "Bratz",
+      "has_synced": true,
+      "path": "select/02_My_Life_[Slumber_Party_Girls]_Bratz.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Party Girls (feat. Buju Banton)",
+      "artist": "Victoria Monét feat. Buju Banton",
+      "has_synced": true,
+      "path": "select/03_Party_Girls_(feat._Buju_Banton)_Victoria_Monét_feat._Buju_Banton.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Party Girls",
+      "artist": "Victoria Monet",
+      "has_synced": true,
+      "path": "select/04_Party_Girls_Victoria_Monet.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Party Girls (Benzi edit)",
+      "artist": "Ludacris, Cashmere Cat & Jeremih",
+      "has_synced": true,
+      "path": "select/05_Party_Girls_(Benzi_edit)_Ludacris,_Cashmere_Cat_&_Jeremih.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Party Girls",
+      "artist": "Ludacris",
+      "has_synced": false,
+      "path": "select/06_Party_Girls_Ludacris.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Party Girls",
+      "artist": "Kottonmouth Kings",
+      "has_synced": false,
+      "path": "select/07_Party_Girls_Kottonmouth_Kings.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Party Girls",
+      "artist": "Victoria Monét feat. Buju Banton",
+      "has_synced": true,
+      "path": "select/08_Party_Girls_Victoria_Monét_feat._Buju_Banton.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Party Girls (feat. Buju Banton)",
+      "artist": "Victoria Monét",
+      "has_synced": true,
+      "path": "select/09_Party_Girls_(feat._Buju_Banton)_Victoria_Monét.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Party Girls (feat. Buju Banton)",
+      "artist": "Victoria Monét",
+      "has_synced": true,
+      "path": "select/10_Party_Girls_(feat._Buju_Banton)_Victoria_Monét.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Party Girls",
+      "artist": "Ludacris feat. Wiz Khalifa, Jeremih & Cashmere Cat",
+      "has_synced": true,
+      "path": "select/11_Party_Girls_Ludacris_feat._Wiz_Khalifa,_Jeremih_&_Cashmere_Cat.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Party Girls",
+      "artist": "Ludacris/Wiz Khalifa/Jeremih/Cashmere Cat",
+      "has_synced": true,
+      "path": "select/12_Party_Girls_Ludacris_Wiz_Khalifa_Jeremih_Cashmere_Cat.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Party Girls",
+      "artist": "Heavy Heavy Low Low",
+      "has_synced": true,
+      "path": "select/13_Party_Girls_Heavy_Heavy_Low_Low.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Party Girls",
+      "artist": "Victoria Monét",
+      "has_synced": true,
+      "path": "select/14_Party_Girls_Victoria_Monét.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Party Girls (Album Version (Explicit))",
+      "artist": "Ludacris",
+      "has_synced": true,
+      "path": "select/15_Party_Girls_(Album_Version_(Explicit))_Ludacris.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Party Girls (Now What's Next!) (Feat. Buju Banton)",
+      "artist": "Victoria Monet",
+      "has_synced": true,
+      "path": "select/16_Party_Girls_(Now_What's_Next!)_(Feat._Buju_Banton)_Victoria_Monet.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Party Girls",
+      "artist": "Gleemer",
+      "has_synced": false,
+      "path": "select/17_Party_Girls_Gleemer.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Party Girls",
+      "artist": "Victoria Monet",
+      "has_synced": true,
+      "path": "select/18_Party_Girls_Victoria_Monet.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Party Girls (feat. Rashel)",
+      "artist": "Tiji Jojo",
+      "has_synced": false,
+      "path": "select/pl_01_Party_Girls_(feat._Rashel)_Tiji_Jojo.txt"
+    }
+  ]
+}
